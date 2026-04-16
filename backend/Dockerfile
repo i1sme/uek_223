@@ -4,7 +4,7 @@ WORKDIR /app
 
 # Install dependencies first (layer caching)
 COPY package*.json ./
-RUN npm ci --omit=dev=false
+RUN npm install
 
 # Copy source and compile TypeScript
 COPY tsconfig.json ./
