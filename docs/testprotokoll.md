@@ -231,4 +231,5 @@ Die Datenbank wird vollständig durch Jest-Mocks ersetzt (`AppDataSource.getRepo
 ### Automatisierte Unit-Tests
 | Gesamt | Bestanden | Fehlgeschlagen | Nicht ausgeführt |
 |--------|-----------|----------------|------------------|
-| 11 | – | – | 11 (noch nicht ausgeführt) |
+| 11 | 11 | – | - |
+<img width="554" height="284" alt="image" src="https://github.com/user-attachments/assets/508f65e4-65fe-4f38-9c9e-12fe75479168" />
